@@ -6,8 +6,6 @@ needs.
 ## Table of Contents
 
 - [Core Meta Prompts](#core-meta-prompts)
-  - [Universal Task Prompt](#universal-task-prompt)
-  - [Prompt Design Assistant](#prompt-design-assistant)
   - [Assumption Explorer](#assumption-explorer)
   - [Prompt Critique](#prompt-critique)
   - [Chain-of-Thought Trigger](#chain-of-thought-trigger)
