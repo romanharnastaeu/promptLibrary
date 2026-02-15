@@ -1,4 +1,4 @@
-# Prompt OS Phase 2 (Expanded) — Comprehensive
+# Prompts (any llm)
 
 # Prompt Directory
 
@@ -9,7 +9,6 @@ automatic table of contents creation in word processors.
 <!-- Table of Contents -->
 ## Table of Contents
 
-- [Prompt Directory](#prompt-directory)
 - [Core Meta Prompts](#core-meta-prompts)
   - [Universal Task Prompt](#universal-task-prompt)
   - [Prompt Design Assistant](#prompt-design-assistant)
@@ -47,7 +46,6 @@ automatic table of contents creation in word processors.
 - [Real Estate & Urban Planning](#real-estate--urban-planning)
 - [Supply Chain & Operations](#supply-chain--operations)
 - [Customer Experience & Loyalty](#customer-experience--loyalty)
-- [E-learning & Edtech](#e-learning--edtech)
 - [Gamification & Game Design](#gamification--game-design)
 - [Rapid Prompt Bank](#rapid-prompt-bank)
 
