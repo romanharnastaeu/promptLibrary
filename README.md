@@ -1,8 +1,7 @@
 # Prompt Directory
 
 Each prompt includes placeholders (e.g., [topic], [task], [constraints]) so you can adapt it to
-your specific needs. Use clear headings (Heading 1 for each category, Heading 2 for each prompt) to enable
-automatic table of contents creation in word processors.
+your specific needs.
 
 ## Table of Contents
 
